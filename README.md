@@ -41,8 +41,4 @@ An Online Book Store web application built using Java Servlets and JSP for backe
   - `orders`
   - `order_items`
 
-## ⚙️ Installation & Setup
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/online-book-store.git
